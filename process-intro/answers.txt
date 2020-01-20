@@ -1,0 +1,7 @@
+Q1
+
+The CPU Utilization should be 100%. The OS will provide the CPU to process 0 first, and then after process 0 finishes, it hands it off to process 1.
+There is no I/O operations, so there is no chance of a process being blocked (processes can be blocked other ways, but they are irrelevant in the
+context of this question).  
+
+
